@@ -1,0 +1,6 @@
+jupyterlab
+pandas
+scikit-learn
+fastapi
+matplotlib
+seaborn
